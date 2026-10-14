@@ -1,4 +1,4 @@
-﻿# ratelimit-kit
+# ratelimit-kit
 
 采集类程序的**限流、退避、断点、幂等落盘**。
 零第三方依赖，只用 Python 标准库。

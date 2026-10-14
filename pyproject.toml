@@ -1,4 +1,4 @@
-[build-system]
+﻿[build-system]
 requires = ["setuptools>=61"]
 build-backend = "setuptools.build_meta"
 
@@ -26,8 +26,8 @@ classifiers = [
 dependencies = []
 
 [project.urls]
-Homepage = "https://github.com/15186406708/ratelimit-kit"
-Repository = "https://github.com/15186406708/ratelimit-kit"
+Homepage = "https://github.com/zxyin-dev/ratelimit-kit"
+Repository = "https://github.com/zxyin-dev/ratelimit-kit"
 
 [tool.setuptools]
 packages = ["ratelimit_kit"]

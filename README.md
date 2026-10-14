@@ -1,4 +1,4 @@
-# ratelimit-kit
+﻿# ratelimit-kit
 
 采集类程序的**限流、退避、断点、幂等落盘**。
 零第三方依赖，只用 Python 标准库。
@@ -26,7 +26,7 @@
 ## 安装
 
 ```bash
-pip install git+https://github.com/15186406708/ratelimit-kit
+pip install git+https://github.com/zxyin-dev/ratelimit-kit
 ```
 
 或者直接把 `ratelimit_kit/` 目录拷进你的项目 —— 它没有任何依赖，

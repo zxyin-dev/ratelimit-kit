@@ -1,5 +1,7 @@
 # ratelimit-kit
 
+![tests](https://github.com/zxyin-dev/ratelimit-kit/actions/workflows/test.yml/badge.svg)
+
 采集类程序的**限流、退避、断点、幂等落盘**。
 零第三方依赖，只用 Python 标准库。
 
